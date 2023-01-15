@@ -3,7 +3,7 @@
     "description": "Mechanism for nullable embeddables in Doctrine 2.5+",
     "type": "library",
     "require": {
-        "php": "^7.0|8.0",
+        "php": "^7.0|^8.0",
         "doctrine/orm": "^2.5"
     },
     "require-dev": {
